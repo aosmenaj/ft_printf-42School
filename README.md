@@ -1,5 +1,4 @@
 # ft_printf-42School
-# 🖨️ ft_printf
 
 > A reimplementation of the `printf` function in C – part of the 42 School curriculum.
 
